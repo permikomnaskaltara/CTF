@@ -1,4 +1,4 @@
-You need to check the source code of html page.
+You need to check the source code of html page.<br>
 Search for auth script after the .challenge-wrapper:
 <pre>
 
@@ -16,7 +16,8 @@ $(".c_submit").click(function(event) {
     }
 });	
 </pre>
-Login equals 'admin'. To know password you need to execute 'String.fromCharCode(74,97,118,97,83,99,114,105,112,116,73,115,83,101,99,117,114,101)' in console.
-After this you will get a password - 'JavaScriptIsSecure'.
-Then just go to https://ringzer0team.com/challenges/27/?p=JavaScriptIsSecure or insert login and password and submit form.
+Login equals 'admin'. <br>
+To know password you need to execute 'String.fromCharCode(74,97,118,97,83,99,114,105,112,116,73,115,83,101,99,117,114,101)' in console.<br>
+After this you will get a password - 'JavaScriptIsSecure'.<br>
+Then just go to https://ringzer0team.com/challenges/27/?p=JavaScriptIsSecure or insert login and password and submit form.<br>
 GL.
